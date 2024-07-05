@@ -1,0 +1,4 @@
+- Hello Everyone, I am Arunthati Murugan
+- I am a Artificial Intelligence and Data Science graduate.
+- I’m currently looking for learning few ideas.
+- I have worked in machine learning project using python,html and css.
